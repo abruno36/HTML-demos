@@ -7,6 +7,9 @@ body {
     background-image: url('images/background.png');
 }
 
+caption{
+    margin: 0 auto 10px;
+}
 #mainheader {
     background-color: #a593c2;
 }
